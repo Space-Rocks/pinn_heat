@@ -1,1 +1,1 @@
-# pinn_heatmap
+# pinn_heat
